@@ -14,9 +14,3 @@
 <li>Random Forest
 <li>Extra Tress
   
-# Future Work
-
-<li>Hyperparameter Tuning
-<li>Different Models
-<li>Creation of new attributes
-<li>Normalization
